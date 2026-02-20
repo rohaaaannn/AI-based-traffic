@@ -27,7 +27,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/rohaaaannn/AI-based-traffic
-cd AI-Based-Traffic-Management
+cd AI-based-traffic
 ```
 
 Start the backend server:
